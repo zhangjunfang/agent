@@ -5,7 +5,7 @@ import (
 
 	"strings"
 
-	"github.com/smallnest/agent"
+	"github.com/rpcx-ecosystem/agent"
 )
 
 var (

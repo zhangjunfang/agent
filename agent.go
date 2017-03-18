@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/smallnest/agent/codec"
-	"github.com/smallnest/agent/pb"
+	"github.com/rpcx-ecosystem/agent/codec"
+	"github.com/rpcx-ecosystem/agent/pb"
 	"github.com/smallnest/rpcx"
 	"github.com/smallnest/rpcx/clientselector"
 	context "golang.org/x/net/context"

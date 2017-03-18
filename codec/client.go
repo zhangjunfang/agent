@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/mars9/codec/wirepb"
+	"github.com/rpcx-ecosystem/agent/codec/wirepb"
 )
 
 const defaultBufferSize = 4 * 1024

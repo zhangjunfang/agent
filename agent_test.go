@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/smallnest/agent/pb"
+	"github.com/rpcx-ecosystem/agent/pb"
 	context "golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
